@@ -1,9 +1,8 @@
-## This is a test with trailing spaces  
+## This is a test with trailing spaces
 
 - One
 - Two
 - Three
-
 
 * One
 * Two
