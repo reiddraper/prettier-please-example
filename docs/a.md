@@ -1,4 +1,4 @@
-## Test with trailing space  
+## Test with trailing space
 
 - One
 - Two
