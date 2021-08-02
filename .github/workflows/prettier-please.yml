@@ -11,7 +11,7 @@ jobs:
         with:
           fetch-depth: 1
           token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: reiddraper/prettier-please@722919446642bf13a6f35dd46b361de4590de822
+      - uses: reiddraper/prettier-please@3fc667bf289c2b785f8fa3dbc4dbecbcdc827deb
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           git-user.name: thehub-bot
